@@ -1,4 +1,4 @@
-# gpsearch
+# gppath
 
 Source code for informative path planning with output-weighted Bayesian optimization.
 
